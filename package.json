@@ -1,0 +1,11 @@
+{
+  "name": "@evcard/evcard-utils",
+  "version": "1.0.2",
+  "description": "EVCARD管理平台工具函数库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "admin@extracme.com",
+  "license": "ISC"
+}

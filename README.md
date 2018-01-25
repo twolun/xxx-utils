@@ -1,2 +1,3 @@
-# xxx-utils
-私有npm测试包，private， cnpmjs
+# 公用工具函数库
+
+### 2018.1.17---添加readme文件
