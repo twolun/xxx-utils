@@ -1,11 +1,11 @@
 {
-  "name": "@evcard/evcard-utils",
-  "version": "1.0.2",
-  "description": "EVCARD管理平台工具函数库",
+  "name": "@company/evcard-utils",
+  "version": "1.0.3",
+  "description": "私有包测试demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "admin@extracme.com",
+  "author": "admin@admin.com",
   "license": "ISC"
 }
